@@ -13,7 +13,7 @@ Es.
 > ...
 
 In the **info.txt** you have to put in order one for each line: *user_id*, *discord_token*, *discord_group_id* and *channel_id*  
-This script can also be used for log all discord event that happen in a group.  
+This script can also be used for log all discord events that happen in a group.  
 
 ## Known issues
 
